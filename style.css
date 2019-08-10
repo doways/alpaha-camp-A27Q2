@@ -1,0 +1,41 @@
+h3{
+  text-align: left;
+}
+#colorRed{
+  border: solid gray 1px;
+  border-radius: 10px;
+  background-color: red;
+  padding:15px;
+}
+#colorGreen{
+  border: solid gray 1px;
+  border-radius: 10px;
+  background-color: green;
+  padding:15px;
+}
+#colorBlack{
+  border: solid gray 1px;
+  border-radius: 10px;
+  background-color: black;
+  padding:15px;
+}
+.justify-content-between{
+  padding:10px
+}
+.col-1{
+  padding-left: 0px
+}
+.btn-primary {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+    margin: 15px 10px;
+}
+#hexArea{
+  padding-left: 0px;
+}
+#colorBoard{
+  margin-top: 15px;
+    width: 7em;
+    height: 7em;
+}
